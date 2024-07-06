@@ -47,7 +47,6 @@ Email :  abdalhalimalzohbi@gmail.com
 ### Backend Development
 
 <div>
-    <img src="/assets/icons/express.webp" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/nodejs.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
 
