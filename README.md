@@ -31,10 +31,10 @@ Email :  abdalhalimalzohbi@gmail.com
 ### OOP - DSA
 
 <div style="overflow-x: auto; white-space: nowrap;">
-<img src="/assets/icons/java.jpeg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px; background-color: white;">
+<img src="/assets/icons/java.jpeg" alt="Programming Language 1" style="display: inline-block; width: 130px; height: 100px; margin-right: 10px; background-color: white;">
     <img src="/assets/icons/python.png" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/dart.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/csharp.png" alt="Programming Language 3" style="display: inline-block; width: 120px; height: 120px; margin-right: 10px;">
+    <img src="/assets/icons/csharp.png" alt="Programming Language 3" style="display: inline-block; width: 105px; height: 105px; margin-right: 10px;">
  
 </div>
 
@@ -47,7 +47,7 @@ Email :  abdalhalimalzohbi@gmail.com
 ### Backend Development
 
 <div>
-    <img src="/assets/icons/express.webp" alt="Programming Language 2" style="display: inline-block; width: 130px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/express.jpg" alt="Programming Language 2" style="display: inline-block; width: 140px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/nodejs.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 110px; height: 110px; margin-right: 10px;">
 
