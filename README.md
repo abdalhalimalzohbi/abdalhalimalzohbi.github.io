@@ -2,6 +2,10 @@
 
 ## Introduction
 
+Mobile Developer with expertise in crafting cross-platorm applications using Flutter and leveraging Firebase services.
+Proficient in backend development using Node.js, Express.js, and MongoDB, certified in AWS. Experienced with relational
+and NoSQL databases, including MySQL and MongoDB, firebase.
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
     
@@ -51,30 +55,21 @@ Email :  abdalhalimalzohbi@gmail.com
     <img src="/assets/icons/nodejs.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 150px; height: 110px; margin-right: 10px;">
 
-
 </div>
 
 ### Databases
 
 <div>
-        <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-        <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
+
 
 </div>
 
-### Cloud Computing
+### Extras
 
 <div>
-        <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-        <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
+        <img src="/assets/icons/aws.svg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/linux.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/git.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
 
 </div>
 
@@ -82,25 +77,44 @@ Email :  abdalhalimalzohbi@gmail.com
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 200px;">
   
   ### Mobile Developer
-  **Consolidated Consultancy Group (CCG)**  
+  **Consolidated Consultancy Group (CCG)- Lebanon**  
   **Apr 2024 - Current (part-time)**
-  
   - Designed and implemented cross-platform applications using Flutter and Firebase.
-  - Contributed from gathering user requirements to defining system design, architecture, and implementation.
-  - Used Firebase Authentication, Firestore, and Firebase Storage for Authentication and data storage.
+- Contributing in the project from gathering user requirements to defining system design and architecture and then implementation.
+- Used Firebase Authentication, Firestore and Firebase-Storage for Authentication and data storage.
+- Implemented serverless functions using Firebase Functions.
+- Utilized Provider for state management , ensuring smooth data flow across the application.
+- Integrated AI chatbots to elevate user interaction and engagement.
+- Leveraged cloud messaging and push notifications for real-time communication enhancements.
   
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 200px;">
   
-  ### Backend Developer (Freelance - Auth sys)
-  **Feb 2024 - Mar 2024 (3 months)**
+  ### Mobile Development Team-Lead 
+  **Vision Architech - UK-London**  
+  **July 2024 - Current**
+
+    - Provide guidance and mentorship to team members in technical aspects, ensuring their growth and development.
+    - Efficiently coordinate tasks and allocate resources to ensure projects are delivered on time and within budget.
+    - Actively contribute to architectural design discussions, conduct thorough code reviews, and participate in problem-solving sessions to maintain high code quality and scalability.
+    - Identify and implement best practices, tools, and methodologies to streamline development processes, improve efficiency, and enhance overall team productivity.
+
+  </div>
+    <div style="flex: 1; min-width: 200px;">
   
-  - Developed authentication APIs using Node.js, Express.js, and MongoDB.
-  
+  ### Backend Developer 
+  **Grow Smart agency - Lebanon**  
+  **Jan 2024 - Mar 2024**
+
+    - Focused on React.js for frontend development and MongoDB/Node.js for backend.
+    - Specialized in building RESTful APIs with emphasis on validation, authentication, and authorization using JWT and related libraries.
+    - Implemented AWS S3 for efficient storage of images and utilities.
+    - Contributed in completion of a full projects encompassing both frontend and backend development.
+
   </div>
 
 </div>
