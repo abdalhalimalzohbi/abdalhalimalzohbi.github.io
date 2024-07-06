@@ -105,7 +105,6 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 
 <ul>
     <li>Provide guidance and mentorship to team members in technical aspects, ensuring their growth and development.</li>
-    <li>Efficiently coordinate tasks and allocate resources to ensure projects are delivered on time and within budget.</li>
     <li>Actively contribute to architectural design discussions, conduct thorough code reviews, and participate in problem-solving sessions to maintain high code quality and scalability.</li>
     <li>Identify and implement best practices, tools, and methodologies to streamline development processes, improve efficiency, and enhance overall team productivity.</li>
 </ul>
