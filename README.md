@@ -6,7 +6,8 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        Email: abdalhalimalzohbi@gmail.com
+    
+Email :  abdalhalimalzohbi@gmail.com
     </div>
     <div>
         <a href="https://www.linkedin.com/in/abdalhalimalzohbi/">
@@ -32,9 +33,9 @@
 ### OOP - DSA
 
 <div style="overflow-x: auto; white-space: nowrap;">
-    <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
+    <img src="/assets/icons/java.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
+    <img src="/assets/icons/python.png" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
+    <img src="/assets/icons/dart.png" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
  
 </div>
 
@@ -60,6 +61,7 @@
 </div>
 
 ### Databases
+
 <div>
         <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
     <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
@@ -71,6 +73,7 @@
 </div>
 
 ### Cloud Computing
+
 <div>
         <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
     <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
@@ -107,6 +110,5 @@
   </div>
 
 </div>
-
 
 ## Projects
