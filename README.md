@@ -48,7 +48,7 @@ Email :  abdalhalimalzohbi@gmail.com
 
 ### Backend Development
 
-<div>
+<div style="overflow-x: auto; white-space: nowrap;">
     <img src="/assets/icons/express.jpg" alt="Programming Language 2" style="display: inline-block; width: 165px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/nodejs.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 150px; height: 110px; margin-right: 10px;">
@@ -57,7 +57,7 @@ Email :  abdalhalimalzohbi@gmail.com
 
 ### Databases
 
-<div>
+<div style="overflow-x: auto; white-space: nowrap;">
         <img src="/assets/icons/mongodb.svg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/mysql.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/firebase.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
@@ -66,7 +66,7 @@ Email :  abdalhalimalzohbi@gmail.com
 
 ### Extras
 
-<div>
+<div style="overflow-x: auto; white-space: nowrap;">
         <img src="/assets/icons/aws.svg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/linux.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/git.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
