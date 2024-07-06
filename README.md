@@ -41,15 +41,15 @@ Email :  abdalhalimalzohbi@gmail.com
 ### Mobile Development
 
 <div style="overflow-x: auto; white-space: nowrap;">
-    <img src="/assets/icons/flutter.png" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/flutter.png" alt="Programming Language 2" style="display: inline-block; width: 80px; height: 90px; margin-right: 10px;">
 </div>
 
 ### Backend Development
 
 <div>
-    <img src="/assets/icons/express.jpg" alt="Programming Language 2" style="display: inline-block; width: 140px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/express.jpg" alt="Programming Language 2" style="display: inline-block; width: 165px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/nodejs.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 110px; height: 110px; margin-right: 10px;">
+    <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 150px; height: 110px; margin-right: 10px;">
 
 
 </div>
