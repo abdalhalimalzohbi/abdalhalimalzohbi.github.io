@@ -8,8 +8,7 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-    
-Email :  abdalhalimalzohbi@gmail.com
+    <p><strong>Email:</strong> <a href="mailto:abdalhalimalzohbi@gmail.com">abdalhalimalzohbi@gmail.com</a></p>
     </div>
     <div>
         <a href="https://www.linkedin.com/in/abdalhalimalzohbi/">
