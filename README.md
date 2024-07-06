@@ -120,10 +120,10 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 </div>
 
 <ul>
-    <li>Focused on React.js for frontend development and MongoDB/Node.js for backend.</li>
-    <li>Specialized in building RESTful APIs with emphasis on validation, authentication, and authorization using JWT and related libraries.</li>
+    <li>Focused on MongoDB/Node.js for backend development.</li>
+    <li>Specialized in building RESTful APIs with emphasis on validation, authentication, and authorization using JWT and
+related libraries.</li>
     <li>Implemented AWS S3 for efficient storage of images and utilities.</li>
-    <li>Contributed in completion of a full projects encompassing both frontend and backend development.</li>
 </ul>
 
   </div>
