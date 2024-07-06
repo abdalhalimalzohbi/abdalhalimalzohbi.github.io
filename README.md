@@ -60,7 +60,7 @@ Email :  abdalhalimalzohbi@gmail.com
 <div>
         <img src="/assets/icons/mongodb.svg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/mysql.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/Firebase.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/Firebase.png" alt="Programming Language 3" style="display: inline-block; width: 170px; height: 80px; margin-right: 10px;">
 
 </div>
 
