@@ -34,27 +34,23 @@ Email :  abdalhalimalzohbi@gmail.com
 <img src="/assets/icons/java.jpeg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px; background-color: white;">
     <img src="/assets/icons/python.png" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
     <img src="/assets/icons/dart.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/csharp.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
  
 </div>
 
 ### Mobile Development
 
 <div style="overflow-x: auto; white-space: nowrap;">
-    <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-
+    <img src="/assets/icons/flutter.png" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
 </div>
 
 ### Backend Development
 
 <div>
-        <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-        <img src="https://example.com/image_url_1.jpg" alt="Programming Language 1" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_2.jpg" alt="Programming Language 2" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
-    <img src="https://example.com/image_url_3.jpg" alt="Programming Language 3" style="display: inline-block; width: 200px; height: 150px; margin-right: 10px;">
+    <img src="/assets/icons/express.webp" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/nodejs.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+
 
 </div>
 
