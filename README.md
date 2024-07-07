@@ -29,49 +29,64 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 <br>
 <br>
 
-### OOP - DSA
 
-<div style="overflow-x: auto; white-space: nowrap;">
-<img src="/assets/icons/java.jpeg" alt="Programming Language 1" style="display: inline-block; width: 130px; height: 100px; margin-right: 10px; background-color: white;">
-    <img src="/assets/icons/python.png" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/dart.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/csharp.png" alt="Programming Language 3" style="display: inline-block; width: 105px; height: 105px; margin-right: 10px;">
- 
+### OOP - DSA and Mobile Development
+
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; margin-right: 20px;">
+  <h3>OOP - DSA</h3>
+  <div style="overflow-x: auto; white-space: nowrap;">
+    <img src="/assets/icons/java.jpeg" alt="Java" style="display: inline-block; width: 130px; height: 100px; margin-right: 10px; background-color: white;">
+    <img src="/assets/icons/python.png" alt="Python" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/dart.png" alt="Dart" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/csharp.png" alt="C#" style="display: inline-block; width: 105px; height: 105px; margin-right: 10px;">
+  </div>
 </div>
 
-### Mobile Development
-
-<div style="overflow-x: auto; white-space: nowrap;">
-    <img src="/assets/icons/flutter.png" alt="Programming Language 2" style="display: inline-block; width: 80px; height: 90px; margin-right: 10px;">
+<div style="flex: 1;">
+  <h3>Mobile Development</h3>
+  <div style="overflow-x: auto; white-space: nowrap;">
+    <img src="/assets/icons/flutter.png" alt="Flutter" style="display: inline-block; width: 80px; height: 90px; margin-right: 10px;">
+  </div>
 </div>
-
-### Backend Development
-
-<div style="overflow-x: auto; white-space: nowrap;">
-    <img src="/assets/icons/express.jpg" alt="Programming Language 2" style="display: inline-block; width: 165px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/nodejs.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/php.png" alt="Programming Language 2" style="display: inline-block; width: 150px; height: 110px; margin-right: 10px;">
 
 </div>
 
-### Databases
+### Backend Development and Databases
 
-<div style="overflow-x: auto; white-space: nowrap;">
-        <img src="/assets/icons/mongodb.svg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/mysql.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/Firebase.png" alt="Programming Language 3" style="display: inline-block; width: 170px; height: 80px; margin-right: 10px;">
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; margin-right: 20px;">
+  <h3>Backend Development</h3>
+  <div style="overflow-x: auto; white-space: nowrap;">
+    <img src="/assets/icons/express.jpg" alt="Express.js" style="display: inline-block; width: 165px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/nodejs.svg" alt="Node.js" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/php.png" alt="PHP" style="display: inline-block; width: 150px; height: 110px; margin-right: 10px;">
+  </div>
+</div>
+
+<div style="flex: 1;">
+  <h3>Databases</h3>
+  <div style="overflow-x: auto; white-space: nowrap;">
+    <img src="/assets/icons/mongodb.svg" alt="MongoDB" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/mysql.svg" alt="MySQL" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/Firebase.png" alt="Firebase" style="display: inline-block; width: 170px; height: 80px; margin-right: 10px;">
+  </div>
+</div>
 
 </div>
+
 
 ### Extras
 
+
 <div style="overflow-x: auto; white-space: nowrap;">
-        <img src="/assets/icons/aws.svg" alt="Programming Language 1" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/linux.svg" alt="Programming Language 2" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/git.png" alt="Programming Language 3" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-
+  <img src="/assets/icons/aws.svg" alt="AWS" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+  <img src="/assets/icons/linux.svg" alt="Linux" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
+  <img src="/assets/icons/git.png" alt="Git" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
 </div>
-
 ## Experience
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
