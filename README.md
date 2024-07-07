@@ -30,7 +30,6 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 <br>
 
 
-### OOP - DSA and Mobile Development
 
 
 <div style="display: flex; justify-content: space-between;">
@@ -54,7 +53,6 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 
 </div>
 
-### Backend Development and Databases
 
 <div style="display: flex; justify-content: space-between;">
 
