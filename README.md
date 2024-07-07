@@ -189,5 +189,8 @@ project include :Event Handling-Error Handling-CRUD Operations-DB design-UI Comp
     <img src="/assets/projects/whatsappMarketing/wm1.jpg" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
     <img src="/assets/projects/whatsappMarketing/wm4.jpg" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
         <img src="/assets/projects/whatsappMarketing/wm6.jpg" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                <img src="/assets/projects/whatsappMarketing/wm11.jpg" alt="Screenshot 4" style="width: 66%; height: auto; margin: 0;">
+                        <img src="/assets/projects/whatsappMarketing/wm12.jpg" alt="Screenshot 4" style="width: 50%; height: auto; margin: 0;">
+                                <img src="/assets/projects/whatsappMarketing/wm13.jpg" alt="Screenshot 4" style="width: 50%; height: auto; margin: 0;">
 
 </div>
