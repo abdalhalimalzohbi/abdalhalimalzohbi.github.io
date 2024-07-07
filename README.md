@@ -38,9 +38,9 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
   <h3>OOP - DSA</h3>
   <div style="overflow-x: auto; white-space: nowrap;">
     <img src="/assets/icons/java.jpeg" alt="Java" style="display: inline-block; width: 130px; height: 100px; margin-right: 10px; background-color: white;">
-    <img src="/assets/icons/python.png" alt="Python" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/dart.png" alt="Dart" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
-    <img src="/assets/icons/csharp.png" alt="C#" style="display: inline-block; width: 105px; height: 105px; margin-right: 10px;">
+    <img src="/assets/icons/python.png" alt="Python" style="display: inline-block; width: 95px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/dart.png" alt="Dart" style="display: inline-block; width: 95px; height: 100px; margin-right: 10px;">
+    <img src="/assets/icons/csharp.png" alt="C#" style="display: inline-block; width: 100px; height: 105px; margin-right: 10px;">
   </div>
 </div>
 
