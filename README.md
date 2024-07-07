@@ -142,7 +142,8 @@ related libraries.</li>
 
 #### Gallery of Screenshots
 
-<div style="display: flex; overflow-x: auto; padding: 10px; background-color: #f9f9f9; border-radius: 10px;">
+<div style="overflow-x: auto; padding: 10px; background-color: #f9f9f9; border-radius: 10px;">
+<div style="display: flex; ">
     <div style="flex: none; margin-right: 10px;">
         <img src="/assets/projects/StudentMangSys/sms1.png" alt="Screenshot 1" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <p style="text-align: center; font-size: 14px;">Signup</p>
@@ -157,7 +158,7 @@ related libraries.</li>
     </div>
         <div style="flex: none; margin-right: 10px;">
         <img src="/assets/projects/StudentMangSys/sms4.png" alt="Screenshot 1" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <p style="text-align: center; font-size: 14px;">Student-2</p>
+        <p style="text-align: center; font-size: 14px;">Student-1</p>
     </div>
     <div style="flex: none; margin-right: 10px;">
         <img src="/assets/projects/StudentMangSys/sms5.png" alt="Screenshot 2" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -167,4 +168,8 @@ related libraries.</li>
         <img src="/assets/projects/StudentMangSys/sms6.png" alt="Screenshot 3" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <p style="text-align: center; font-size: 14px;">Teacher</p>
     </div>
+</div>
+<p>University Project For Visual Programming course ,Technology used: C#-.NET Framework (Windows Forms)-ADO.NET-MySql(SSMS as DBMS).
+project include :Event Handling-Error Handling-CRUD Operations-DB design-UI Components-Data Binding.
+</p>
 </div>
