@@ -29,9 +29,6 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 <br>
 <br>
 
-
-
-
 <div style="display: flex; justify-content: space-between;">
 
 <div style="flex: 1; margin-right: 20px;">
@@ -52,7 +49,6 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 </div>
 
 </div>
-
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -76,9 +72,7 @@ and NoSQL databases, including MySQL and MongoDB, firebase.
 
 </div>
 
-
 ### Extras
-
 
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="/assets/icons/aws.svg" alt="AWS" style="display: inline-block; width: 100px; height: 100px; margin-right: 10px;">
@@ -143,3 +137,34 @@ related libraries.</li>
 </div>
 
 ## Projects
+
+### Project: Desktop App-Student Management System
+
+#### Gallery of Screenshots
+
+<div style="display: flex; overflow-x: auto; padding: 10px; background-color: #f9f9f9; border-radius: 10px;">
+    <div style="flex: none; margin-right: 10px;">
+        <img src="/assets/projects/StudentMangSys/sms1.png" alt="Screenshot 1" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <p style="text-align: center; font-size: 14px;">Signup</p>
+    </div>
+    <div style="flex: none; margin-right: 10px;">
+        <img src="/assets/projects/StudentMangSys/sms2.png" alt="Screenshot 2" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <p style="text-align: center; font-size: 14px;">Login</p>
+    </div>
+    <div style="flex: none; margin-right: 10px;">
+        <img src="/assets/projects/StudentMangSys/sms3.png" alt="Screenshot 3" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <p style="text-align: center; font-size: 14px;">Dashboard</p>
+    </div>
+        <div style="flex: none; margin-right: 10px;">
+        <img src="/assets/projects/StudentMangSys/sms4.png" alt="Screenshot 1" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <p style="text-align: center; font-size: 14px;">Student-2</p>
+    </div>
+    <div style="flex: none; margin-right: 10px;">
+        <img src="/assets/projects/StudentMangSys/sms5.png" alt="Screenshot 2" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <p style="text-align: center; font-size: 14px;">Student-2</p>
+    </div>
+    <div style="flex: none; margin-right: 10px;">
+        <img src="/assets/projects/StudentMangSys/sms6.png" alt="Screenshot 3" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <p style="text-align: center; font-size: 14px;">Teacher</p>
+    </div>
+</div>
