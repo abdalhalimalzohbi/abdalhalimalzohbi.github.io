@@ -138,6 +138,29 @@ related libraries.</li>
 
 ## Projects
 
+
+### Project: Desktop App- Whatsapp Marketing
+
+#### Gallery of Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <img src="/assets/projects/whatsappMarketing/wm5.jpg" alt="Screenshot 1" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/whatsappMarketing/wm7.jpg" alt="Screenshot 2" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/whatsappMarketing/wm10.jpg" alt="Screenshot 3" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/whatsappMarketing/wm9.jpg" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/whatsappMarketing/wm8.jpg" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/whatsappMarketing/wm3.jpg" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
+        <img src="/assets/projects/whatsappMarketing/wm2.jpg" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/whatsappMarketing/wm1.jpg" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/whatsappMarketing/wm4.jpg" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
+        <img src="/assets/projects/whatsappMarketing/wm6.jpg" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                <img src="/assets/projects/whatsappMarketing/wm11.jpg" alt="Screenshot 4" style="width: 66%; height: auto; margin: 0;">
+                        <img src="/assets/projects/whatsappMarketing/wm12.jpg" alt="Screenshot 4" style="width: 49%; height: auto; margin: 0;">
+                                <img src="/assets/projects/whatsappMarketing/wm13.jpg" alt="Screenshot 4" style="width: 49%; height: auto; margin-left: 2px;">
+
+</div>
+
+
 ### Project: Desktop App-Student Management System
 
 #### Gallery of Screenshots
@@ -172,25 +195,4 @@ related libraries.</li>
 <p>University Project For Visual Programming course ,Technology used: C#-.NET Framework (Windows Forms)-ADO.NET-MySql(SSMS as DBMS).
 project include :Event Handling-Error Handling-CRUD Operations-DB design-UI Components-Data Binding.
 </p>
-</div>
-
-### Project: Desktop App- Whatsapp Marketing
-
-#### Gallery of Screenshots
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-    <img src="/assets/projects/whatsappMarketing/wm5.jpg" alt="Screenshot 1" style="width: 33%; height: auto; margin: 0;">
-    <img src="/assets/projects/whatsappMarketing/wm7.jpg" alt="Screenshot 2" style="width: 33%; height: auto; margin: 0;">
-    <img src="/assets/projects/whatsappMarketing/wm10.jpg" alt="Screenshot 3" style="width: 33%; height: auto; margin: 0;">
-    <img src="/assets/projects/whatsappMarketing/wm9.jpg" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
-    <img src="/assets/projects/whatsappMarketing/wm8.jpg" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
-    <img src="/assets/projects/whatsappMarketing/wm3.jpg" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
-        <img src="/assets/projects/whatsappMarketing/wm2.jpg" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
-    <img src="/assets/projects/whatsappMarketing/wm1.jpg" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
-    <img src="/assets/projects/whatsappMarketing/wm4.jpg" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
-        <img src="/assets/projects/whatsappMarketing/wm6.jpg" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
-                <img src="/assets/projects/whatsappMarketing/wm11.jpg" alt="Screenshot 4" style="width: 66%; height: auto; margin: 0;">
-                        <img src="/assets/projects/whatsappMarketing/wm12.jpg" alt="Screenshot 4" style="width: 49%; height: auto; margin: 0;">
-                                <img src="/assets/projects/whatsappMarketing/wm13.jpg" alt="Screenshot 4" style="width: 49%; height: auto; margin-left: 2px;">
-
 </div>
