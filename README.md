@@ -193,8 +193,8 @@ related libraries.</li>
 #### Gallery of Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-    <img src="/assets/projects/SqlyBot/s1.png" alt="Screenshot 1" style="width: 50%; height: auto; margin: 0;">
-    <img src="/assets/projects/SqlyBot/s2.png" alt="Screenshot 2" style="width: 50%; height: auto; margin: 0;">
+    <img src="/assets/projects/SqlyBot/s1.png" alt="Screenshot 1" style="width: 49%; height: auto; margin-right: 2px;">
+    <img src="/assets/projects/SqlyBot/s2.png" alt="Screenshot 2" style="width: 49%; height: auto; margin: 0;">
 
 
 </div>
