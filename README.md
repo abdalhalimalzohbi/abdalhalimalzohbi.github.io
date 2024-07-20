@@ -162,8 +162,6 @@ related libraries.</li>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-
-
 ### Project: Mobile App- Goalify
 
 #### Gallery of Screenshots
@@ -178,13 +176,14 @@ related libraries.</li>
         <img src="/assets/projects/goalify/g7.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
     <img src="/assets/projects/goalify/g8.png" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
     <img src="/assets/projects/goalify/g9.png" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
-        <img src="/assets/projects/goalify/g10.png" alt="Screenshot 4" style="width: 25%; height: auto; margin: 0;">
-                <img src="/assets/projects/goalify/g11.png" alt="Screenshot 4" style="width: 25%; height: auto; margin: 0;">
-                        <img src="/assets/projects/goalify/g12.png" alt="Screenshot 4" style="width: 25%; height: auto; margin: 0;">
-                                <img src="/assets/projects/goalify/g13.png" alt="Screenshot 4" style="width: 25%; height: auto; margin-left: 0px;">
+        <img src="/assets/projects/goalify/g10.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                <img src="/assets/projects/goalify/g11.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                                        <img src="/assets/projects/goalify/g12.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                    <img src="/assets/projects/goalify/g14.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                <img src="/assets/projects/goalify/g15.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                                <img src="/assets/projects/goalify/g13.png" alt="Screenshot 4" style="width: 33%; height: auto; margin-left: 0px;">
 
 </div>
-
 
 ### Project: Desktop App-Student Management System
 
