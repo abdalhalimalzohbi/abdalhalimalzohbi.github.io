@@ -138,7 +138,6 @@ related libraries.</li>
 
 ## Projects
 
-
 ### Project: Desktop App- Whatsapp Marketing
 
 #### Gallery of Screenshots
@@ -157,6 +156,28 @@ related libraries.</li>
                 <img src="/assets/projects/whatsappMarketing/wm11.jpg" alt="Screenshot 4" style="width: 66%; height: auto; margin: 0;">
                         <img src="/assets/projects/whatsappMarketing/wm12.jpg" alt="Screenshot 4" style="width: 49%; height: auto; margin: 0;">
                                 <img src="/assets/projects/whatsappMarketing/wm13.jpg" alt="Screenshot 4" style="width: 49%; height: auto; margin-left: 2px;">
+
+</div>
+
+
+### Project: Mobile App- Goalify
+
+#### Gallery of Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <img src="/assets/projects/goalify/g1.png" alt="Screenshot 1" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/goalify/g2.png" alt="Screenshot 2" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/goalify/g3.png" alt="Screenshot 3" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/goalify/g4.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/goalify/g5.png" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/goalify/g6.png" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
+        <img src="/assets/projects/goalify/g7.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/goalify/g8.png" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
+    <img src="/assets/projects/goalify/g9.png" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
+        <img src="/assets/projects/goalify/g10.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
+                <img src="/assets/projects/goalify/g11.png" alt="Screenshot 4" style="width: 66%; height: auto; margin: 0;">
+                        <img src="/assets/projects/goalify/g12.png" alt="Screenshot 4" style="width: 49%; height: auto; margin: 0;">
+                                <img src="/assets/projects/goalify/g13.png" alt="Screenshot 4" style="width: 49%; height: auto; margin-left: 2px;">
 
 </div>
 
