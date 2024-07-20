@@ -174,10 +174,10 @@ related libraries.</li>
         <img src="/assets/projects/goalify/g7.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
     <img src="/assets/projects/goalify/g8.png" alt="Screenshot 5" style="width: 33%; height: auto; margin: 0;">
     <img src="/assets/projects/goalify/g9.png" alt="Screenshot 6" style="width: 33%; height: auto; margin: 0;">
-        <img src="/assets/projects/goalify/g10.png" alt="Screenshot 4" style="width: 33%; height: auto; margin: 0;">
-                <img src="/assets/projects/goalify/g11.png" alt="Screenshot 4" style="width: 66%; height: auto; margin: 0;">
-                        <img src="/assets/projects/goalify/g12.png" alt="Screenshot 4" style="width: 49%; height: auto; margin: 0;">
-                                <img src="/assets/projects/goalify/g13.png" alt="Screenshot 4" style="width: 49%; height: auto; margin-left: 2px;">
+        <img src="/assets/projects/goalify/g10.png" alt="Screenshot 4" style="width: 25%; height: auto; margin: 0;">
+                <img src="/assets/projects/goalify/g11.png" alt="Screenshot 4" style="width: 25%; height: auto; margin: 0;">
+                        <img src="/assets/projects/goalify/g12.png" alt="Screenshot 4" style="width: 25%; height: auto; margin: 0;">
+                                <img src="/assets/projects/goalify/g13.png" alt="Screenshot 4" style="width: 25%; height: auto; margin-left: 0px;">
 
 </div>
 
