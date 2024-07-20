@@ -185,6 +185,19 @@ related libraries.</li>
 
 </div>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+### Project: Mobile App(AI ChatBot)- SqlyBot
+
+#### Gallery of Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <img src="/assets/projects/SqlyBot/s1.png" alt="Screenshot 1" style="width: 50%; height: auto; margin: 0;">
+    <img src="/assets/projects/SqlyBot/s2.png" alt="Screenshot 2" style="width: 50%; height: auto; margin: 0;">
+
+
+</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
