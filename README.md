@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Mobile Developer with expertise in crafting cross-platorm applications using Flutter and leveraging Firebase services.
+Software Engineer with expertise in crafting cross-platorm applications using Flutter and leveraging Firebase services.
 Proficient in backend development using Node.js, Express.js, and MongoDB, certified in AWS. Experienced with relational
-and NoSQL databases, including MySQL and MongoDB, firebase.
+and NoSQL databases, including MySQL, PostgreSql, MongoDB and firebase.
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
