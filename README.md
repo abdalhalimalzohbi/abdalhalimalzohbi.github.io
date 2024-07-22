@@ -103,22 +103,8 @@ and NoSQL databases, including MySQL, PostgreSql, MongoDB and firebase.
 
   </div>
 
+
   <div style="flex: 1; min-width: 200px;">
-<div>
-    <h3>Mobile Development Team-Lead</h3>
-    <p><strong>Vision Architech - UK-London</strong></p>
-    <p><em>July 2024 - Current</em></p>
-</div>
-
-<ul>
-    <li>Provide guidance and mentorship to team members in technical aspects, ensuring their growth and development.</li>
-    <li>Actively contribute to architectural design discussions, conduct thorough code reviews, and participate in problem-solving sessions to maintain high code quality and scalability.</li>
-    <li>Identify and implement best practices, tools, and methodologies to streamline development processes, improve efficiency, and enhance overall team productivity.</li>
-</ul>
-
-  </div>
-    <div style="flex: 1; min-width: 200px;">
-
 <div>
     <h3>Backend Developer</h3>
     <p><strong>Grow Smart agency - Lebanon</strong></p>
