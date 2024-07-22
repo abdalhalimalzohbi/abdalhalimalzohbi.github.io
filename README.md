@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-TE30Q9NJN3"></script>
     <script>
@@ -9,6 +7,7 @@
         gtag('config', 'G-TE30Q9NJN3');
     </script>
 </head>
+
 
 # Abdalhalim Alzohbi's Portfolio
 
