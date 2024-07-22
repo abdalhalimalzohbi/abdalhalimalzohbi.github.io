@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TE30Q9NJN3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-TE30Q9NJN3');
+    </script>
+</head>
+
 # Abdalhalim Alzohbi's Portfolio
 
 ## Introduction
@@ -103,7 +115,6 @@ and NoSQL databases, including MySQL, PostgreSql, MongoDB and firebase.
 
   </div>
 
-
   <div style="flex: 1; min-width: 200px;">
 <div>
     <h3>Backend Developer</h3>
@@ -182,12 +193,10 @@ related libraries.</li>
     <img src="/assets/projects/SqlyBot/s1.png" alt="Screenshot 1" style="width: 49%; height: auto; margin-right: 2px;">
     <img src="/assets/projects/SqlyBot/s2.png" alt="Screenshot 2" style="width: 49%; height: auto; margin: 0;">
 
-
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 
 ### Project: Desktop App-Student Management System
 
@@ -224,3 +233,4 @@ related libraries.</li>
 project include :Event Handling-Error Handling-CRUD Operations-DB design-UI Components-Data Binding.
 </p>
 </div>
+</html>
