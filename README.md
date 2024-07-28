@@ -88,7 +88,7 @@ and NoSQL databases, including MySQL, PostgreSql, MongoDB and firebase.
 <div>
     <h3>Mobile Developer</h3>
     <p><strong>Consolidated Consultancy Group (CCG) - Lebanon</strong></p>
-    <p><em>Apr 2024 - Current (part-time)</em></p>
+    <p><em>Apr 2024 - Jul 2024 (part-time)</em></p>
 </div>
 
 <ul>
